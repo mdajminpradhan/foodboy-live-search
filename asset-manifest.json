@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foodboy-live-search/static/css/main.63508688.chunk.css",
+    "main.js": "/foodboy-live-search/static/js/main.7dc66d47.chunk.js",
+    "main.js.map": "/foodboy-live-search/static/js/main.7dc66d47.chunk.js.map",
+    "runtime-main.js": "/foodboy-live-search/static/js/runtime-main.f5eec35e.js",
+    "runtime-main.js.map": "/foodboy-live-search/static/js/runtime-main.f5eec35e.js.map",
+    "static/js/2.9ff326f7.chunk.js": "/foodboy-live-search/static/js/2.9ff326f7.chunk.js",
+    "static/js/2.9ff326f7.chunk.js.map": "/foodboy-live-search/static/js/2.9ff326f7.chunk.js.map",
+    "index.html": "/foodboy-live-search/index.html",
+    "precache-manifest.ec4c81ff77a48915c46c4462938921e0.js": "/foodboy-live-search/precache-manifest.ec4c81ff77a48915c46c4462938921e0.js",
+    "service-worker.js": "/foodboy-live-search/service-worker.js",
+    "static/css/main.63508688.chunk.css.map": "/foodboy-live-search/static/css/main.63508688.chunk.css.map",
+    "static/js/2.9ff326f7.chunk.js.LICENSE.txt": "/foodboy-live-search/static/js/2.9ff326f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5eec35e.js",
+    "static/js/2.9ff326f7.chunk.js",
+    "static/css/main.63508688.chunk.css",
+    "static/js/main.7dc66d47.chunk.js"
+  ]
+}
